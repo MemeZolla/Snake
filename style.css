@@ -1,0 +1,7 @@
+ body {
+    background-image: url("https://cdn.tutsplus.com/cdn-cgi/image/width=480/mobile/uploads/legacy/Corona-SDK_Build-A-Snake-Game/1/6.png");
+
+    background-attachment: fixed;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+ }
